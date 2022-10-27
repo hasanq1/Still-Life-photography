@@ -144,7 +144,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:s.l.studios2022@gmail.com")}>
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -173,7 +173,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button onClick={() => window.open("mailto:s.l.studios2022@gmail.com")}>
               Contact
             </Button>
 

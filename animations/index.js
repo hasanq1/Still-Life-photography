@@ -7,3 +7,4 @@ export const stagger = (target, fromvVars, toVars) => {
     { opacity: 1, ...toVars, stagger: 0.2, ease: Power3.easeOut }
   );
 };
+
