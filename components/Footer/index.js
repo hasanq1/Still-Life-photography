@@ -1,5 +1,4 @@
 import React from "react";
-import Socials from "../Socials";
 import Link from "next/link";
 import Button from "../Button";
 
@@ -16,9 +15,10 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
               Together.
             </h1>
-            <Button type="primary">Schedule a Session</Button>
+            <Button type= "primary" onClick={() => window.open("mailto:s.l.studios2022@gmail.com?subject=Still Life Photography info & sessions")}>
+            Schedule a Session
+            </Button> 
             <div className="mt-10">
-              <Socials />
             </div>
           </div>
         </div>
