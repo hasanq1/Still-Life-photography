@@ -1,0 +1,146 @@
+{
+    "name": "Still Life Photography",
+    "headerTaglineOne": "Welcome to Still Life Photography 📸",
+    "headerTaglineTwo": "",
+    "headerTaglineThree": "",
+    "headerTaglineFour": "",
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": false,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Instagram",
+        "link": "https://www.instagram.com/kingdadrianproductions/"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/jerdadrian-henderson-708544254/"
+      },
+      {
+        "id": "3",
+        "title": "",
+        "link": "mailto:jerdadrianhenderson@gmail.com"
+      },
+      {
+        "id": "4",
+        "title": "",
+        "link": ""
+      },
+      {
+        "id": "5",
+        "title": "",
+        "link": ""
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Photoshoot One",
+        "description": "The King",
+        "imageSrc": "/images/photo1.png",
+        "url": "https://www.instagram.com/p/CeMKnPqOYah/?utm_source=ig_web_copy_link/"
+      },
+      {
+        "id": "2",
+        "title": "Photoshoot Two",
+        "description": "The Journey",
+        "imageSrc": "/images/photo2.png",
+        "url": "https://www.instagram.com/p/CeMKnPqOYah/?utm_source=ig_web_copy_link"
+      },
+      {
+        "id": "3",
+        "title": "Photoshoot Three",
+        "description": "Stillness",
+        "imageSrc": "/images/photo3.png",
+        "url": "https://www.instagram.com/p/CeMKnPqOYah/?utm_source=ig_web_copy_link"
+      },
+      {
+        "id": "4",
+        "title": "Photoshoot Four",
+        "description": "Spotlight",
+        "imageSrc": "/images/photo4.png",
+        "url": "https://www.instagram.com/p/CeMKnPqOYah/?utm_source=ig_web_copy_link"
+      },
+      {
+        "id": "5",
+        "title": "Photoshoot Five",
+        "description": "Velocity",
+        "imageSrc": "/images/photo5.png",
+        "url": "https://www.instagram.com/p/CeMKnPqOYah/?utm_source=ig_web_copy_link"
+      },
+      {
+        "id": "6",
+        "title": "The Owner",
+        "description": "Design",
+        "imageSrc": "/images/theCreatorS.png",
+        "url": "https://www.instagram.com/p/CeMKnPqOYah/?utm_source=ig_web_copy_link"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Photoshoots",
+        "description": "Profesional portraits, party, wedding, graduations -- No matter the occasion, we have you covered. Catching your best angles and adding our premium touch up package will make it look pristine."
+      },
+      {
+        "id": "2",
+        "title": "Cinematography",
+        "description": "This is for our content creators and social media clients. Let us enhance your content and being you more likes on your videos."
+      },
+      {
+        "id": "3",
+        "title": "Videography",
+        "description": "We can capture studio quality videos and enhance them to your exact specifications."
+      },
+      {
+        "id": "4",
+        "title": "Editing",
+        "description": "Even if it's a moment you captured for us to experience, there's still hidden beauty we believe we can still bring out when you send us your content."
+      }
+    ],
+    "aboutpara": "I'm Jay Henderson, a co-owner of Still Life photography. We are a group of creative photographers and content creators. Capturing the perfect moment is our skill. Enhancing and preserving it is our specialty. To us even the tiniest details are important, for they determine how a captured moment will be remembered. Still Life photography invites you to come see the world though our lense and allow us to help preserve your special moment in time.",
+    "resume": {
+      "tagline": "Photography and an art that I've mastered.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed in photography, videograpghy, and cinematography.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "March 2022 - Present",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": "Bullet One, Bullet Two"
+        },
+        {
+          "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+          "dates": "July 2020 - March 2022",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        }
+      ],
+      "education": {
+        "universityName": "University X",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      "languages": [
+        "Javascript",
+        "HTML5",
+        "CSS",
+        "Python",
+        "Go"
+      ],
+      "frameworks": [
+        "React",
+        "Typescript",
+        "NodeJs"
+      ],
+      "others": [
+        "Figma",
+        "AdobeXD",
+        "AWS"
+      ]
+    }
+  }
