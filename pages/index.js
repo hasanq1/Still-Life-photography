@@ -1,14 +1,12 @@
 import { useRef } from "react";
 import Header from "../components/Header";
 import ServiceCard from "../components/ServiceCard";
-import Socials from "../components/Socials";
 import WorkCard from "../components/WorkCard";
 import { useIsomorphicLayoutEffect } from "../utils";
 import { stagger } from "../animations";
 import Footer from "../components/Footer";
 import Head from "next/head";
 import Button from "../components/Button";
-import Link from "next/link";
 import Cursor from "../components/Cursor";
 
 // Local Data
@@ -97,8 +95,6 @@ export default function Home() {
               {data.headerTaglineFour}
             </h1>
           </div>
-
-          <Socials className="mt-2 laptop:mt-5" />
         </div>
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
           <h1 className="text-2xl text-bold">Work.</h1>
@@ -132,6 +128,7 @@ export default function Home() {
             {data.aboutpara}
           </p>
         </div>
+        
         <Footer />
       </div>
     </div>
