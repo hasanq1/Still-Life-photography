@@ -1,6 +1,4 @@
 import React from "react";
-import Link from "next/link";
-import Button from "/components/Button";
 import Socials from "/components/Socials";
 import { ContactUs } from "../ContactUs/ContactUs";
 
@@ -16,13 +14,9 @@ const Footer = ({}) => {
               Let&apos;s capture your best moments together.
             </h1>
             <h2 className="text-2xl text-bold">
-              Call 713 659-945
+              Call 713 659-945 or send us a message below.
               <ContactUs/>
             </h2>
-            {/* <Button type= "primary" onClick={() => window.open("mailto:s.l.studios2022@gmail.com?subject=Still Life Photography info & sessions")}>
-              Click here to schedule a session
-            </Button> */}
-
               <Socials className="mt-2 laptop:mt-5" />
             <div className="mt-10">
             </div>

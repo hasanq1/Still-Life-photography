@@ -39,7 +39,7 @@ export const ContactUs = () => {
                 type='text'
                 name='user_name'
                 className='form-control formInput'
-                placeholder='Name'
+                placeholder='Type name here'
             ></input>
             </div>
         <div>
@@ -50,7 +50,7 @@ export const ContactUs = () => {
                 type='email'
                 name='user_email'
                 className='form-control formInput'
-                placeholder='Email address'
+                placeholder='Type email here'
             ></input>
             </div>
         </div>
@@ -64,7 +64,7 @@ export const ContactUs = () => {
                 rows={3}
                 name='message'
                 className='form-control formInput'
-                placeholder='Message'
+                placeholder='Type message here'
             ></textarea>
             </div>
         </div>
