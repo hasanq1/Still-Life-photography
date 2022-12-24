@@ -14,7 +14,7 @@ const Footer = ({}) => {
               Let&apos;s capture your best moments together.
             </h1>
             <h2 className="text-2xl text-bold">
-              Call 713 659-945 or send us a message below.
+              Send us a message below.
               <ContactUs/>
             </h2>
               <Socials className="mt-2 laptop:mt-5" />
@@ -24,7 +24,7 @@ const Footer = ({}) => {
         </div>
       </div>
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
-        Owned and operated by ♠️ TheProjectHoldings LLC. ♠️
+        Website made by ♠️ TheProjectHoldings LLC. ♠️
       </h1>
     </>
   );
